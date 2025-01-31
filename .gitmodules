@@ -1,0 +1,6 @@
+[submodule "Signal-Processing"]
+	path = Signal-Processing
+	url = https://github.com/WvnianiXinkali/Signal-Processing.git
+[submodule "Introduction-to-Engineering"]
+	path = Introduction-to-Engineering
+	url = https://github.com/WvnianiXinkali/Introduction-to-Engineering.git
